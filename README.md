@@ -136,7 +136,7 @@ link /subsystem:windows ChessGame.obj
 
 * 🔗 **GitHub**: [abdulrehmangulfaraz](https://github.com/abdulrehmangulfaraz)
 * 🔗 **LinkedIn**: [abdulrehman-gulfaraz](https://www.linkedin.com/in/abdulrehman-gulfaraz)
-* 📧 **Email**: [abdulrehmangulfaraz@gmail.com](mailto:abdulrehmangulfaraz@gmail.com)
+* 📧 **Email**: [abdulrehmangulfaraz1@gmail.com](mailto:abdulrehmangulfaraz1@gmail.com)
 
 ---
 
